@@ -1,0 +1,1808 @@
+[
+  {
+    "name": "DeepSeek-V3",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "stars": 96733,
+    "created_at": "2024-12-26T09:52:40Z",
+    "description": null
+  },
+  {
+    "name": "whisper",
+    "url": "https://github.com/openai/whisper",
+    "stars": 81681,
+    "created_at": "2022-09-16T20:02:54Z",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  {
+    "name": "Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "stars": 67003,
+    "created_at": "2023-09-24T13:19:31Z",
+    "description": "real time face swap and one-click video deepfake with only a single image"
+  },
+  {
+    "name": "llama",
+    "url": "https://github.com/meta-llama/llama",
+    "stars": 58239,
+    "created_at": "2023-02-14T09:29:12Z",
+    "description": "Inference code for Llama models"
+  },
+  {
+    "name": "grok-1",
+    "url": "https://github.com/xai-org/grok-1",
+    "stars": 50234,
+    "created_at": "2024-03-17T08:53:38Z",
+    "description": "Grok open release"
+  },
+  {
+    "name": "nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "stars": 41217,
+    "created_at": "2022-12-28T00:51:12Z",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs."
+  },
+  {
+    "name": "ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "stars": 41045,
+    "created_at": "2023-03-13T12:00:18Z",
+    "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型"
+  },
+  {
+    "name": "TaskMatrix",
+    "url": "https://github.com/chenfei-wu/TaskMatrix",
+    "stars": 34479,
+    "created_at": "2023-03-02T09:04:28Z",
+    "description": null
+  },
+  {
+    "name": "OpenVoice",
+    "url": "https://github.com/myshell-ai/OpenVoice",
+    "stars": 32220,
+    "created_at": "2023-11-29T12:17:01Z",
+    "description": "Instant voice cloning by MIT and MyShell. Audio foundation model."
+  },
+  {
+    "name": "stanford_alpaca",
+    "url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "stars": 29989,
+    "created_at": "2023-03-10T23:33:09Z",
+    "description": "Code and documentation to train Stanford's Alpaca models, and generate the data."
+  },
+  {
+    "name": "roop",
+    "url": "https://github.com/s0md3v/roop",
+    "stars": 29794,
+    "created_at": "2023-05-28T14:37:54Z",
+    "description": "one-click face swap"
+  },
+  {
+    "name": "GPT_API_free",
+    "url": "https://github.com/chatanywhere/GPT_API_free",
+    "stars": 29731,
+    "created_at": "2023-04-23T12:42:08Z",
+    "description": "Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。"
+  },
+  {
+    "name": "llama3",
+    "url": "https://github.com/meta-llama/llama3",
+    "stars": 28687,
+    "created_at": "2024-03-15T17:57:00Z",
+    "description": "The official Meta Llama 3 GitHub site"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "stars": 28052,
+    "created_at": "2022-12-03T14:35:24Z",
+    "description": "Reverse engineered ChatGPT API"
+  },
+  {
+    "name": "GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "stars": 25645,
+    "created_at": "2020-05-13T07:25:21Z",
+    "description": ":kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）"
+  },
+  {
+    "name": "JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "stars": 24140,
+    "created_at": "2023-03-30T02:57:12Z",
+    "description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf"
+  },
+  {
+    "name": "PDFMathTranslate",
+    "url": "https://github.com/Byaidu/PDFMathTranslate",
+    "stars": 23455,
+    "created_at": "2024-09-06T06:56:03Z",
+    "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
+  },
+  {
+    "name": "minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "stars": 21887,
+    "created_at": "2020-08-17T07:08:48Z",
+    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training"
+  },
+  {
+    "name": "minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "stars": 20779,
+    "created_at": "2024-07-27T04:34:12Z",
+    "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!"
+  },
+  {
+    "name": "localGPT",
+    "url": "https://github.com/PromtEngineer/localGPT",
+    "stars": 20551,
+    "created_at": "2023-05-24T05:32:40Z",
+    "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. "
+  },
+  {
+    "name": "mihomo",
+    "url": "https://github.com/MetaCubeX/mihomo",
+    "stars": 20185,
+    "created_at": "2021-05-20T11:06:33Z",
+    "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API."
+  },
+  {
+    "name": "awesome-free-chatgpt",
+    "url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
+    "stars": 19882,
+    "created_at": "2023-03-09T07:37:37Z",
+    "description": "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. "
+  },
+  {
+    "name": "Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "stars": 18833,
+    "created_at": "2023-03-15T11:09:39Z",
+    "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)"
+  },
+  {
+    "name": "awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "stars": 17625,
+    "created_at": "2021-11-15T09:38:58Z",
+    "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀"
+  },
+  {
+    "name": "ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "stars": 17307,
+    "created_at": "2022-11-16T00:48:18Z",
+    "description": "Stable Diffusion with Core ML on Apple Silicon"
+  },
+  {
+    "name": "avatarify-python",
+    "url": "https://github.com/alievk/avatarify-python",
+    "stars": 16437,
+    "created_at": "2020-04-06T19:53:16Z",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps."
+  },
+  {
+    "name": "codellama",
+    "url": "https://github.com/meta-llama/codellama",
+    "stars": 16298,
+    "created_at": "2023-08-24T14:25:15Z",
+    "description": "Inference code for CodeLlama models"
+  },
+  {
+    "name": "faster-whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "stars": 15985,
+    "created_at": "2023-02-11T09:17:27Z",
+    "description": "Faster Whisper transcription with CTranslate2"
+  },
+  {
+    "name": "ChatGLM2-6B",
+    "url": "https://github.com/THUDM/ChatGLM2-6B",
+    "stars": 15741,
+    "created_at": "2023-06-24T06:21:34Z",
+    "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型"
+  },
+  {
+    "name": "whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "stars": 15711,
+    "created_at": "2022-12-09T02:34:23Z",
+    "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)"
+  },
+  {
+    "name": "dia",
+    "url": "https://github.com/nari-labs/dia",
+    "stars": 15550,
+    "created_at": "2025-04-19T07:15:57Z",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass."
+  },
+  {
+    "name": "SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "stars": 15340,
+    "created_at": "2021-08-10T05:58:42Z",
+    "description": "SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!"
+  },
+  {
+    "name": "dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "stars": 14798,
+    "created_at": "2021-07-03T18:04:37Z",
+    "description": "DALL·E Mini - Generate images from a text prompt"
+  },
+  {
+    "name": "fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "stars": 14706,
+    "created_at": "2022-08-03T02:14:22Z",
+    "description": "FauxPilot - an open-source alternative to GitHub Copilot server"
+  },
+  {
+    "name": "Llama-Chinese",
+    "url": "https://github.com/LlamaFamily/Llama-Chinese",
+    "stars": 14581,
+    "created_at": "2023-07-19T04:45:23Z",
+    "description": "Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用"
+  },
+  {
+    "name": "tiktoken",
+    "url": "https://github.com/openai/tiktoken",
+    "stars": 14480,
+    "created_at": "2022-12-01T23:22:11Z",
+    "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models."
+  },
+  {
+    "name": "MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "stars": 14023,
+    "created_at": "2020-10-13T19:02:46Z",
+    "description": "Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods"
+  },
+  {
+    "name": "csm",
+    "url": "https://github.com/SesameAILabs/csm",
+    "stars": 13217,
+    "created_at": "2025-02-26T15:38:54Z",
+    "description": "A Conversational Speech Generation Model"
+  },
+  {
+    "name": "FramePack",
+    "url": "https://github.com/lllyasviel/FramePack",
+    "stars": 13016,
+    "created_at": "2025-04-12T14:45:22Z",
+    "description": "Lets make video diffusion practical!"
+  },
+  {
+    "name": "MOSS",
+    "url": "https://github.com/OpenMOSS/MOSS",
+    "stars": 12049,
+    "created_at": "2023-04-15T14:07:44Z",
+    "description": "An open-source tool-augmented conversational language model from Fudan University"
+  },
+  {
+    "name": "developer",
+    "url": "https://github.com/smol-ai/developer",
+    "stars": 11964,
+    "created_at": "2023-05-13T07:19:57Z",
+    "description": "the first library to let you embed a developer agent in your own app!"
+  },
+  {
+    "name": "MoneyPrinter",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+    "stars": 11756,
+    "created_at": "2024-01-31T18:53:24Z",
+    "description": "Automate Creation of YouTube Shorts using MoviePy."
+  },
+  {
+    "name": "ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "stars": 11695,
+    "created_at": "2021-07-14T09:00:06Z",
+    "description": "带带弟弟 通用验证码识别OCR pypi版"
+  },
+  {
+    "name": "InstantID",
+    "url": "https://github.com/instantX-research/InstantID",
+    "stars": 11616,
+    "created_at": "2023-12-11T13:16:04Z",
+    "description": "InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥"
+  },
+  {
+    "name": "MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "stars": 11452,
+    "created_at": "2024-02-12T11:20:42Z",
+    "description": "Automate the process of making money online."
+  },
+  {
+    "name": "AnimateDiff",
+    "url": "https://github.com/guoyww/AnimateDiff",
+    "stars": 11378,
+    "created_at": "2023-06-17T11:14:28Z",
+    "description": "Official implementation of AnimateDiff."
+  },
+  {
+    "name": "DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "stars": 11268,
+    "created_at": "2022-04-07T04:14:08Z",
+    "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch"
+  },
+  {
+    "name": "OpenLLM",
+    "url": "https://github.com/bentoml/OpenLLM",
+    "stars": 11253,
+    "created_at": "2023-04-19T00:27:52Z",
+    "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud."
+  },
+  {
+    "name": "awesome-chatgpt-zh",
+    "url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
+    "stars": 11136,
+    "created_at": "2023-03-21T02:16:34Z",
+    "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀"
+  },
+  {
+    "name": "blender-mcp",
+    "url": "https://github.com/ahujasid/blender-mcp",
+    "stars": 11100,
+    "created_at": "2025-03-07T09:58:58Z",
+    "description": null
+  },
+  {
+    "name": "DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "stars": 10854,
+    "created_at": "2021-02-23T23:01:11Z",
+    "description": "PyTorch package for the discrete VAE used for DALL·E."
+  },
+  {
+    "name": "dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "stars": 10806,
+    "created_at": "2023-03-24T16:15:53Z",
+    "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform"
+  },
+  {
+    "name": "bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "stars": 10628,
+    "created_at": "2020-07-01T17:41:25Z",
+    "description": "Linux/OSX/FreeBSD resource monitor"
+  },
+  {
+    "name": "ComfyUI-Manager",
+    "url": "https://github.com/Comfy-Org/ComfyUI-Manager",
+    "stars": 10034,
+    "created_at": "2023-04-23T14:36:09Z",
+    "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI."
+  },
+  {
+    "name": "eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "stars": 9980,
+    "created_at": "2020-02-15T09:00:37Z",
+    "description": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋"
+  },
+  {
+    "name": "Tkinter-Designer",
+    "url": "https://github.com/ParthJadhav/Tkinter-Designer",
+    "stars": 9768,
+    "created_at": "2021-05-18T07:29:26Z",
+    "description": "An easy and fast way to create a Python GUI 🐍"
+  },
+  {
+    "name": "ebook2audiobook",
+    "url": "https://github.com/DrewThomasson/ebook2audiobook",
+    "stars": 9711,
+    "created_at": "2024-01-22T23:49:55Z",
+    "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!"
+  },
+  {
+    "name": "self-operating-computer",
+    "url": "https://github.com/OthersideAI/self-operating-computer",
+    "stars": 9640,
+    "created_at": "2023-11-04T03:13:45Z",
+    "description": "A framework to enable multimodal models to operate a computer."
+  },
+  {
+    "name": "minbpe",
+    "url": "https://github.com/karpathy/minbpe",
+    "stars": 9630,
+    "created_at": "2024-02-16T16:18:15Z",
+    "description": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization."
+  },
+  {
+    "name": "fluentui-emoji",
+    "url": "https://github.com/microsoft/fluentui-emoji",
+    "stars": 9487,
+    "created_at": "2021-07-30T01:44:32Z",
+    "description": "A collection of familiar, friendly, and modern emoji from Microsoft"
+  },
+  {
+    "name": "denoising-diffusion-pytorch",
+    "url": "https://github.com/lucidrains/denoising-diffusion-pytorch",
+    "stars": 9330,
+    "created_at": "2020-08-26T02:22:10Z",
+    "description": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch"
+  },
+  {
+    "name": "U-2-Net",
+    "url": "https://github.com/xuebinqin/U-2-Net",
+    "stars": 9082,
+    "created_at": "2020-05-04T17:10:28Z",
+    "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\""
+  },
+  {
+    "name": "Monocraft",
+    "url": "https://github.com/IdreesInc/Monocraft",
+    "stars": 8849,
+    "created_at": "2022-08-08T00:32:42Z",
+    "description": "A monospaced programming font inspired by the Minecraft typeface"
+  },
+  {
+    "name": "cursor-auto-free",
+    "url": "https://github.com/chengazhen/cursor-auto-free",
+    "stars": 8802,
+    "created_at": "2024-12-28T14:22:25Z",
+    "description": "auto sign cursor"
+  },
+  {
+    "name": "FreeAskInternet",
+    "url": "https://github.com/nashsu/FreeAskInternet",
+    "stars": 8690,
+    "created_at": "2024-04-05T06:37:53Z",
+    "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. "
+  },
+  {
+    "name": "WARP-Clash-API",
+    "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+    "stars": 8666,
+    "created_at": "2023-08-23T19:19:40Z",
+    "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic."
+  },
+  {
+    "name": "ImageBind",
+    "url": "https://github.com/facebookresearch/ImageBind",
+    "stars": 8641,
+    "created_at": "2023-03-23T15:52:47Z",
+    "description": "ImageBind One Embedding Space to Bind Them All"
+  },
+  {
+    "name": "clone-voice",
+    "url": "https://github.com/jianchang512/clone-voice",
+    "stars": 8509,
+    "created_at": "2023-11-19T16:29:06Z",
+    "description": "A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频"
+  },
+  {
+    "name": "PocketFlow-Tutorial-Codebase-Knowledge",
+    "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+    "stars": 8343,
+    "created_at": "2025-04-02T20:56:33Z",
+    "description": "Pocket Flow: Codebase to Tutorial"
+  },
+  {
+    "name": "gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "stars": 8289,
+    "created_at": "2020-07-05T10:23:46Z",
+    "description": "An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library."
+  },
+  {
+    "name": "imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "stars": 8262,
+    "created_at": "2022-05-23T22:06:13Z",
+    "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch"
+  },
+  {
+    "name": "EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "stars": 8003,
+    "created_at": "2023-02-09T16:07:42Z",
+    "description": "Reverse engineered API of Microsoft's Bing Chat AI"
+  },
+  {
+    "name": "gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "stars": 7995,
+    "created_at": "2020-03-22T00:56:45Z",
+    "description": "github release、archive以及项目文件的加速项目"
+  },
+  {
+    "name": "pulse",
+    "url": "https://github.com/alex-damian/pulse",
+    "stars": 7994,
+    "created_at": "2020-05-20T17:58:16Z",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models"
+  },
+  {
+    "name": "IC-Light",
+    "url": "https://github.com/lllyasviel/IC-Light",
+    "stars": 7988,
+    "created_at": "2024-05-07T13:26:05Z",
+    "description": "More relighting!"
+  },
+  {
+    "name": "aws-devops-zero-to-hero",
+    "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+    "stars": 7955,
+    "created_at": "2023-06-19T06:13:08Z",
+    "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples."
+  },
+  {
+    "name": "PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "stars": 7807,
+    "created_at": "2022-12-09T17:53:46Z",
+    "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM"
+  },
+  {
+    "name": "mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "stars": 7793,
+    "created_at": "2021-12-06T21:29:09Z",
+    "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377"
+  },
+  {
+    "name": "TikTokDownload",
+    "url": "https://github.com/Johnserf-Seed/TikTokDownload",
+    "stars": 7631,
+    "created_at": "2021-01-19T08:16:31Z",
+    "description": "抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频"
+  },
+  {
+    "name": "get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "stars": 7628,
+    "created_at": "2021-07-24T01:42:43Z",
+    "description": "✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙"
+  },
+  {
+    "name": "CodeGeeX2",
+    "url": "https://github.com/THUDM/CodeGeeX2",
+    "stars": 7619,
+    "created_at": "2023-07-23T18:26:53Z",
+    "description": "CodeGeeX2: A More Powerful Multilingual Code Generation Model"
+  },
+  {
+    "name": "Omost",
+    "url": "https://github.com/lllyasviel/Omost",
+    "stars": 7597,
+    "created_at": "2024-05-29T12:58:14Z",
+    "description": "Your image is almost there!"
+  },
+  {
+    "name": "rectg",
+    "url": "https://github.com/jackhawks/rectg",
+    "stars": 7519,
+    "created_at": "2023-06-17T02:15:48Z",
+    "description": "从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。"
+  },
+  {
+    "name": "shuyuan",
+    "url": "https://github.com/shidahuilang/shuyuan",
+    "stars": 7460,
+    "created_at": "2022-04-08T14:09:15Z",
+    "description": "阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新"
+  },
+  {
+    "name": "vits",
+    "url": "https://github.com/jaywalnut310/vits",
+    "stars": 7419,
+    "created_at": "2021-05-26T23:38:12Z",
+    "description": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech"
+  },
+  {
+    "name": "starcoder",
+    "url": "https://github.com/bigcode-project/starcoder",
+    "stars": 7416,
+    "created_at": "2023-04-24T12:32:21Z",
+    "description": "Home of StarCoder: fine-tuning & inference!"
+  },
+  {
+    "name": "Game-Cheats-Manager",
+    "url": "https://github.com/dyang886/Game-Cheats-Manager",
+    "stars": 7415,
+    "created_at": "2023-12-31T10:09:12Z",
+    "description": "Easily download and manage game cheats for your convenience"
+  },
+  {
+    "name": "ty",
+    "url": "https://github.com/astral-sh/ty",
+    "stars": 7362,
+    "created_at": "2025-05-02T16:37:51Z",
+    "description": "An extremely fast Python type checker and language server, written in Rust."
+  },
+  {
+    "name": "local-deep-researcher",
+    "url": "https://github.com/langchain-ai/local-deep-researcher",
+    "stars": 7357,
+    "created_at": "2024-12-04T23:57:20Z",
+    "description": "Fully local web research and report writing assistant"
+  },
+  {
+    "name": "LWM",
+    "url": "https://github.com/LargeWorldModel/LWM",
+    "stars": 7272,
+    "created_at": "2024-02-08T04:16:42Z",
+    "description": "Large World Model -- Modeling Text and Video with Millions Context"
+  },
+  {
+    "name": "DiT",
+    "url": "https://github.com/facebookresearch/DiT",
+    "stars": 7267,
+    "created_at": "2022-12-16T01:00:34Z",
+    "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\""
+  },
+  {
+    "name": "backgroundremover",
+    "url": "https://github.com/nadermx/backgroundremover",
+    "stars": 7245,
+    "created_at": "2021-05-24T02:49:23Z",
+    "description": "Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source."
+  },
+  {
+    "name": "video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "stars": 7201,
+    "created_at": "2020-10-04T18:01:25Z",
+    "description": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files. "
+  },
+  {
+    "name": "autocut",
+    "url": "https://github.com/mli/autocut",
+    "stars": 7200,
+    "created_at": "2022-10-28T21:53:27Z",
+    "description": "用文本编辑器剪视频"
+  },
+  {
+    "name": "pdfGPT",
+    "url": "https://github.com/bhaskatripathi/pdfGPT",
+    "stars": 7120,
+    "created_at": "2023-03-07T18:24:30Z",
+    "description": "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!"
+  },
+  {
+    "name": "Hiddify-Manager",
+    "url": "https://github.com/hiddify/Hiddify-Manager",
+    "stars": 7099,
+    "created_at": "2022-09-26T19:40:26Z",
+    "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy. "
+  },
+  {
+    "name": "3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "stars": 6988,
+    "created_at": "2020-04-08T15:31:45Z",
+    "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting"
+  },
+  {
+    "name": "r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "stars": 6976,
+    "created_at": "2020-11-29T07:37:06Z",
+    "description": "安卓应用层抓包通杀脚本"
+  },
+  {
+    "name": "DeepLearning",
+    "url": "https://github.com/MingchaoZhu/DeepLearning",
+    "stars": 6956,
+    "created_at": "2020-02-27T07:11:46Z",
+    "description": "Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现"
+  },
+  {
+    "name": "gpt-migrate",
+    "url": "https://github.com/joshpxyne/gpt-migrate",
+    "stars": 6951,
+    "created_at": "2023-06-24T22:17:12Z",
+    "description": "Easily migrate your codebase from one framework or language to another."
+  },
+  {
+    "name": "lamda",
+    "url": "https://github.com/firerpa/lamda",
+    "stars": 6936,
+    "created_at": "2022-07-10T03:20:56Z",
+    "description": "🤖  The most powerful Android RPA framework, the next generation of mobile automation robots."
+  },
+  {
+    "name": "InternLM",
+    "url": "https://github.com/InternLM/InternLM",
+    "stars": 6900,
+    "created_at": "2023-07-06T04:52:06Z",
+    "description": "Official release of InternLM series (InternLM, InternLM2, InternLM2.5, InternLM3)."
+  },
+  {
+    "name": "pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "stars": 6890,
+    "created_at": "2021-03-19T20:59:05Z",
+    "description": "🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️"
+  },
+  {
+    "name": "streaming-llm",
+    "url": "https://github.com/mit-han-lab/streaming-llm",
+    "stars": 6881,
+    "created_at": "2023-09-29T17:45:40Z",
+    "description": "[ICLR 2024] Efficient Streaming Language Models with Attention Sinks"
+  },
+  {
+    "name": "dino",
+    "url": "https://github.com/facebookresearch/dino",
+    "stars": 6839,
+    "created_at": "2021-04-21T07:09:37Z",
+    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO"
+  },
+  {
+    "name": "autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "stars": 6758,
+    "created_at": "2020-08-31T12:02:19Z",
+    "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python"
+  },
+  {
+    "name": "DouyinLiveRecorder",
+    "url": "https://github.com/ihmily/DouyinLiveRecorder",
+    "stars": 6687,
+    "created_at": "2023-07-17T10:11:12Z",
+    "description": "可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制"
+  },
+  {
+    "name": "Zonos",
+    "url": "https://github.com/Zyphra/Zonos",
+    "stars": 6574,
+    "created_at": "2025-02-07T00:32:44Z",
+    "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers."
+  },
+  {
+    "name": "street-fighter-ai",
+    "url": "https://github.com/linyiLYi/street-fighter-ai",
+    "stars": 6479,
+    "created_at": "2023-03-27T14:54:02Z",
+    "description": "This is an AI agent for Street Fighter II Champion Edition."
+  },
+  {
+    "name": "Macast",
+    "url": "https://github.com/xfangfang/Macast",
+    "stars": 6454,
+    "created_at": "2021-06-02T04:22:11Z",
+    "description": "Macast is a cross-platform application which using mpv as DLNA Media Renderer."
+  },
+  {
+    "name": "rags",
+    "url": "https://github.com/run-llama/rags",
+    "stars": 6449,
+    "created_at": "2023-11-16T07:49:44Z",
+    "description": "Build ChatGPT over your data, all with natural language"
+  },
+  {
+    "name": "Firefly",
+    "url": "https://github.com/yangjianxin1/Firefly",
+    "stars": 6387,
+    "created_at": "2023-04-02T14:55:59Z",
+    "description": "Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型"
+  },
+  {
+    "name": "New-Grad-2024",
+    "url": "https://github.com/ReaVNaiL/New-Grad-2024",
+    "stars": 6353,
+    "created_at": "2023-04-02T21:22:38Z",
+    "description": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀"
+  },
+  {
+    "name": "hello-sql",
+    "url": "https://github.com/mouredev/hello-sql",
+    "stars": 6316,
+    "created_at": "2023-10-05T10:51:20Z",
+    "description": "Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde el canal de Twitch de MoureDev."
+  },
+  {
+    "name": "donut",
+    "url": "https://github.com/clovaai/donut",
+    "stars": 6236,
+    "created_at": "2022-07-20T01:21:19Z",
+    "description": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022"
+  },
+  {
+    "name": "IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "stars": 6208,
+    "created_at": "2021-04-13T09:13:48Z",
+    "description": "M3U Playlist for free TV channels"
+  },
+  {
+    "name": "awesome-chatgpt-api",
+    "url": "https://github.com/reorx/awesome-chatgpt-api",
+    "stars": 6147,
+    "created_at": "2023-03-04T07:30:09Z",
+    "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota."
+  },
+  {
+    "name": "DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "stars": 6081,
+    "created_at": "2021-01-01T19:02:36Z",
+    "description": "One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️"
+  },
+  {
+    "name": "ecoute",
+    "url": "https://github.com/SevaSk/ecoute",
+    "stars": 6000,
+    "created_at": "2023-05-08T02:10:27Z",
+    "description": "Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox."
+  },
+  {
+    "name": "courses",
+    "url": "https://github.com/SkalskiP/courses",
+    "stars": 5996,
+    "created_at": "2023-04-02T10:34:53Z",
+    "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)"
+  },
+  {
+    "name": "LaWGPT",
+    "url": "https://github.com/pengxiao-song/LaWGPT",
+    "stars": 5973,
+    "created_at": "2023-04-20T15:45:28Z",
+    "description": " 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型"
+  },
+  {
+    "name": "gpt-fast",
+    "url": "https://github.com/pytorch-labs/gpt-fast",
+    "stars": 5947,
+    "created_at": "2023-10-17T05:30:32Z",
+    "description": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python."
+  },
+  {
+    "name": "UI-TARS",
+    "url": "https://github.com/bytedance/UI-TARS",
+    "stars": 5932,
+    "created_at": "2025-01-19T09:04:17Z",
+    "description": null
+  },
+  {
+    "name": "Informer2020",
+    "url": "https://github.com/zhouhaoyi/Informer2020",
+    "stars": 5906,
+    "created_at": "2020-12-07T09:18:24Z",
+    "description": "The GitHub repository for the paper \"Informer\" accepted by AAAI 2021."
+  },
+  {
+    "name": "Qwen-VL",
+    "url": "https://github.com/QwenLM/Qwen-VL",
+    "stars": 5890,
+    "created_at": "2023-08-21T07:57:15Z",
+    "description": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud."
+  },
+  {
+    "name": "software-papers",
+    "url": "https://github.com/facundoolano/software-papers",
+    "stars": 5860,
+    "created_at": "2022-07-04T00:01:33Z",
+    "description": "📚 A curated list of papers for Software Engineers"
+  },
+  {
+    "name": "AppAgent",
+    "url": "https://github.com/TencentQQGYLab/AppAgent",
+    "stars": 5808,
+    "created_at": "2023-12-20T11:41:04Z",
+    "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps."
+  },
+  {
+    "name": "awesome-open-gpt",
+    "url": "https://github.com/EwingYangs/awesome-open-gpt",
+    "stars": 5797,
+    "created_at": "2023-04-03T13:05:07Z",
+    "description": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥"
+  },
+  {
+    "name": "silero-vad",
+    "url": "https://github.com/snakers4/silero-vad",
+    "stars": 5775,
+    "created_at": "2020-11-23T09:54:16Z",
+    "description": "Silero VAD: pre-trained enterprise-grade Voice Activity Detector"
+  },
+  {
+    "name": "nerf-pytorch",
+    "url": "https://github.com/yenchenlin/nerf-pytorch",
+    "stars": 5771,
+    "created_at": "2020-04-05T08:29:57Z",
+    "description": "A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results."
+  },
+  {
+    "name": "ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "stars": 5745,
+    "created_at": "2021-05-07T03:03:28Z",
+    "description": null
+  },
+  {
+    "name": "Baichuan-7B",
+    "url": "https://github.com/baichuan-inc/Baichuan-7B",
+    "stars": 5690,
+    "created_at": "2023-06-14T10:57:51Z",
+    "description": "A large-scale 7B pretraining language model developed by BaiChuan-Inc."
+  },
+  {
+    "name": "Mastering-GitHub-Copilot-for-Paired-Programming",
+    "url": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+    "stars": 5676,
+    "created_at": "2023-11-29T19:35:47Z",
+    "description": "A 12-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource."
+  },
+  {
+    "name": "Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "stars": 5656,
+    "created_at": "2020-03-10T01:51:20Z",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course "
+  },
+  {
+    "name": "SenseVoice",
+    "url": "https://github.com/FunAudioLLM/SenseVoice",
+    "stars": 5623,
+    "created_at": "2024-07-03T02:56:46Z",
+    "description": "Multilingual Voice Understanding Model"
+  },
+  {
+    "name": "DALLE-pytorch",
+    "url": "https://github.com/lucidrains/DALLE-pytorch",
+    "stars": 5615,
+    "created_at": "2021-01-05T20:35:16Z",
+    "description": "Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch"
+  },
+  {
+    "name": "LLM4Decompile",
+    "url": "https://github.com/albertan017/LLM4Decompile",
+    "stars": 5560,
+    "created_at": "2024-02-28T03:16:44Z",
+    "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models"
+  },
+  {
+    "name": "devin.cursorrules",
+    "url": "https://github.com/grapeot/devin.cursorrules",
+    "stars": 5525,
+    "created_at": "2024-12-17T18:40:40Z",
+    "description": "Magic to turn Cursor/Windsurf as 90% of Devin"
+  },
+  {
+    "name": "gemma_pytorch",
+    "url": "https://github.com/google/gemma_pytorch",
+    "stars": 5441,
+    "created_at": "2024-02-20T17:53:21Z",
+    "description": "The official PyTorch implementation of Google's Gemma models"
+  },
+  {
+    "name": "translation-agent",
+    "url": "https://github.com/andrewyng/translation-agent",
+    "stars": 5387,
+    "created_at": "2024-05-13T01:18:22Z",
+    "description": null
+  },
+  {
+    "name": "chatgpt_telegram_bot",
+    "url": "https://github.com/father-bot/chatgpt_telegram_bot",
+    "stars": 5375,
+    "created_at": "2022-12-05T00:12:32Z",
+    "description": "💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API."
+  },
+  {
+    "name": "TripoSR",
+    "url": "https://github.com/VAST-AI-Research/TripoSR",
+    "stars": 5371,
+    "created_at": "2024-02-07T10:31:04Z",
+    "description": "TripoSR: Fast 3D Object Reconstruction from a Single Image"
+  },
+  {
+    "name": "fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "stars": 5351,
+    "created_at": "2020-05-18T00:16:49Z",
+    "description": "Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes"
+  },
+  {
+    "name": "DeepGEMM",
+    "url": "https://github.com/deepseek-ai/DeepGEMM",
+    "stars": 5330,
+    "created_at": "2025-02-13T09:09:21Z",
+    "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling"
+  },
+  {
+    "name": "tree-of-thought-llm",
+    "url": "https://github.com/princeton-nlp/tree-of-thought-llm",
+    "stars": 5315,
+    "created_at": "2023-05-17T20:24:56Z",
+    "description": "[NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
+  },
+  {
+    "name": "x-transformers",
+    "url": "https://github.com/lucidrains/x-transformers",
+    "stars": 5306,
+    "created_at": "2020-10-24T22:13:25Z",
+    "description": "A concise but complete full-attention transformer with a set of promising experimental features from various papers"
+  },
+  {
+    "name": "curl-impersonate",
+    "url": "https://github.com/lwthiker/curl-impersonate",
+    "stars": 5291,
+    "created_at": "2022-02-17T16:23:38Z",
+    "description": "curl-impersonate: A special build of curl that can impersonate Chrome & Firefox"
+  },
+  {
+    "name": "apkleaks",
+    "url": "https://github.com/dwisiswant0/apkleaks",
+    "stars": 5273,
+    "created_at": "2020-05-29T21:26:13Z",
+    "description": "Scanning APK file for URIs, endpoints & secrets."
+  },
+  {
+    "name": "AnimeGANv2",
+    "url": "https://github.com/TachibanaYoshino/AnimeGANv2",
+    "stars": 5258,
+    "created_at": "2020-08-07T13:52:41Z",
+    "description": "[Open Source].  The improved version of AnimeGAN. Landscape photos/videos to anime"
+  },
+  {
+    "name": "alignment-handbook",
+    "url": "https://github.com/huggingface/alignment-handbook",
+    "stars": 5178,
+    "created_at": "2023-08-25T11:35:34Z",
+    "description": "Robust recipes to align language models with human and AI preferences"
+  },
+  {
+    "name": "wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "stars": 5162,
+    "created_at": "2023-03-18T22:13:19Z",
+    "description": null
+  },
+  {
+    "name": "PhoneSploit-Pro",
+    "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
+    "stars": 5133,
+    "created_at": "2022-12-24T18:05:33Z",
+    "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session."
+  },
+  {
+    "name": "Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "stars": 5128,
+    "created_at": "2020-05-04T08:19:32Z",
+    "description": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference"
+  },
+  {
+    "name": "ComfyUI_IPAdapter_plus",
+    "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
+    "stars": 5093,
+    "created_at": "2023-08-30T09:50:45Z",
+    "description": null
+  },
+  {
+    "name": "CodeGen",
+    "url": "https://github.com/salesforce/CodeGen",
+    "stars": 5083,
+    "created_at": "2022-03-28T20:48:29Z",
+    "description": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex."
+  },
+  {
+    "name": "01",
+    "url": "https://github.com/OpenInterpreter/01",
+    "stars": 5065,
+    "created_at": "2024-01-11T05:45:13Z",
+    "description": "The #1 open-source voice interface for desktop, mobile, and ESP32 chips."
+  },
+  {
+    "name": "Rope",
+    "url": "https://github.com/Hillobar/Rope",
+    "stars": 4996,
+    "created_at": "2023-07-07T20:43:52Z",
+    "description": "GUI-focused roop"
+  },
+  {
+    "name": "moco",
+    "url": "https://github.com/facebookresearch/moco",
+    "stars": 4973,
+    "created_at": "2020-03-17T22:42:11Z",
+    "description": "PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722"
+  },
+  {
+    "name": "YuE",
+    "url": "https://github.com/multimodal-art-projection/YuE",
+    "stars": 4966,
+    "created_at": "2025-01-23T06:21:58Z",
+    "description": "YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open"
+  },
+  {
+    "name": "multidiffusion-upscaler-for-automatic1111",
+    "url": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "stars": 4904,
+    "created_at": "2023-02-27T14:23:49Z",
+    "description": "Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0"
+  },
+  {
+    "name": "CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "stars": 4882,
+    "created_at": "2020-02-13T11:00:19Z",
+    "description": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。"
+  },
+  {
+    "name": "SwinIR",
+    "url": "https://github.com/JingyunLiang/SwinIR",
+    "stars": 4848,
+    "created_at": "2021-08-16T11:50:30Z",
+    "description": "SwinIR: Image Restoration Using Swin Transformer (official repository)"
+  },
+  {
+    "name": "DeepSeek-VL2",
+    "url": "https://github.com/deepseek-ai/DeepSeek-VL2",
+    "stars": 4812,
+    "created_at": "2024-12-13T04:55:41Z",
+    "description": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding"
+  },
+  {
+    "name": "Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "stars": 4789,
+    "created_at": "2020-03-18T19:27:07Z",
+    "description": "Background Matting: The World is Your Green Screen"
+  },
+  {
+    "name": "wxauto",
+    "url": "https://github.com/cluic/wxauto",
+    "stars": 4777,
+    "created_at": "2021-08-15T16:24:05Z",
+    "description": "Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人"
+  },
+  {
+    "name": "Huatuo-Llama-Med-Chinese",
+    "url": "https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese",
+    "stars": 4768,
+    "created_at": "2023-03-31T13:21:24Z",
+    "description": "Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调"
+  },
+  {
+    "name": "Orpheus-TTS",
+    "url": "https://github.com/canopyai/Orpheus-TTS",
+    "stars": 4749,
+    "created_at": "2025-03-08T03:41:54Z",
+    "description": "Towards Human-Sounding Speech"
+  },
+  {
+    "name": "cf2dns",
+    "url": "https://github.com/ddgth/cf2dns",
+    "stars": 4697,
+    "created_at": "2020-08-29T09:34:28Z",
+    "description": "筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式"
+  },
+  {
+    "name": "genai-stack",
+    "url": "https://github.com/docker/genai-stack",
+    "stars": 4685,
+    "created_at": "2023-09-13T12:03:09Z",
+    "description": "Langchain + Docker + Neo4j + Ollama"
+  },
+  {
+    "name": "WireViz",
+    "url": "https://github.com/wireviz/WireViz",
+    "stars": 4609,
+    "created_at": "2020-05-20T17:15:04Z",
+    "description": "Easily document cables and wiring harnesses."
+  },
+  {
+    "name": "YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "stars": 4607,
+    "created_at": "2021-10-27T23:45:03Z",
+    "description": "Allows you easily scan for and delete scam comments using several methods."
+  },
+  {
+    "name": "stable-diffusion-videos",
+    "url": "https://github.com/nateraw/stable-diffusion-videos",
+    "stars": 4581,
+    "created_at": "2022-09-06T18:21:50Z",
+    "description": "Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts"
+  },
+  {
+    "name": "excelCPU",
+    "url": "https://github.com/InkboxSoftware/excelCPU",
+    "stars": 4553,
+    "created_at": "2024-01-27T09:01:59Z",
+    "description": "16-bit CPU for Excel, and related files"
+  },
+  {
+    "name": "FunClip",
+    "url": "https://github.com/modelscope/FunClip",
+    "stars": 4551,
+    "created_at": "2023-05-17T07:23:44Z",
+    "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated."
+  },
+  {
+    "name": "latent-consistency-model",
+    "url": "https://github.com/luosiallen/latent-consistency-model",
+    "stars": 4510,
+    "created_at": "2023-10-06T07:16:28Z",
+    "description": "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference"
+  },
+  {
+    "name": "awesome-mlops",
+    "url": "https://github.com/kelvins/awesome-mlops",
+    "stars": 4496,
+    "created_at": "2020-05-25T22:53:26Z",
+    "description": ":sunglasses: A curated list of awesome MLOps tools"
+  },
+  {
+    "name": "tree-of-thoughts",
+    "url": "https://github.com/kyegomez/tree-of-thoughts",
+    "stars": 4495,
+    "created_at": "2023-05-21T03:50:19Z",
+    "description": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% "
+  },
+  {
+    "name": "Awesome-Prompt-Engineering",
+    "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+    "stars": 4460,
+    "created_at": "2023-02-09T18:22:52Z",
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc "
+  },
+  {
+    "name": "bigdata_analyse",
+    "url": "https://github.com/TurboWay/bigdata_analyse",
+    "stars": 4448,
+    "created_at": "2020-12-25T05:35:32Z",
+    "description": "大数据分析项目"
+  },
+  {
+    "name": "nginx-ui",
+    "url": "https://github.com/schenkd/nginx-ui",
+    "stars": 4448,
+    "created_at": "2020-05-30T08:31:03Z",
+    "description": "Nginx UI allows you to access and modify the nginx configurations files without cli. "
+  },
+  {
+    "name": "myGPTReader",
+    "url": "https://github.com/myreader-io/myGPTReader",
+    "stars": 4443,
+    "created_at": "2023-03-08T14:06:45Z",
+    "description": "A community-driven way to read and chat with AI bots - powered by chatGPT."
+  },
+  {
+    "name": "ml-depth-pro",
+    "url": "https://github.com/apple/ml-depth-pro",
+    "stars": 4435,
+    "created_at": "2024-08-26T20:26:05Z",
+    "description": "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second."
+  },
+  {
+    "name": "AgentLaboratory",
+    "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+    "stars": 4407,
+    "created_at": "2025-01-08T02:00:51Z",
+    "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas"
+  },
+  {
+    "name": "narrator",
+    "url": "https://github.com/cbh123/narrator",
+    "stars": 4403,
+    "created_at": "2023-11-14T20:10:10Z",
+    "description": "David Attenborough narrates your life"
+  },
+  {
+    "name": "diffusion",
+    "url": "https://github.com/hojonathanho/diffusion",
+    "stars": 4390,
+    "created_at": "2020-06-19T00:47:02Z",
+    "description": "Denoising Diffusion Probabilistic Models"
+  },
+  {
+    "name": "self-instruct",
+    "url": "https://github.com/yizhongw/self-instruct",
+    "stars": 4364,
+    "created_at": "2022-12-20T08:52:51Z",
+    "description": "Aligning pretrained language models with instruction data generated by themselves."
+  },
+  {
+    "name": "deep-daze",
+    "url": "https://github.com/lucidrains/deep-daze",
+    "stars": 4360,
+    "created_at": "2021-01-17T06:00:50Z",
+    "description": "Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun"
+  },
+  {
+    "name": "efficient-kan",
+    "url": "https://github.com/Blealtan/efficient-kan",
+    "stars": 4341,
+    "created_at": "2024-05-02T14:19:28Z",
+    "description": "An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN)."
+  },
+  {
+    "name": "Integuru",
+    "url": "https://github.com/Integuru-AI/Integuru",
+    "stars": 4337,
+    "created_at": "2024-10-22T23:11:25Z",
+    "description": "The first AI agent that builds permissionless integrations through reverse engineering platforms' internal APIs."
+  },
+  {
+    "name": "present",
+    "url": "https://github.com/vinayak-mehta/present",
+    "stars": 4337,
+    "created_at": "2020-08-18T20:39:05Z",
+    "description": "A terminal-based presentation tool with colors and effects."
+  },
+  {
+    "name": "Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "stars": 4332,
+    "created_at": "2022-12-25T08:00:04Z",
+    "description": "[ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation"
+  },
+  {
+    "name": "CLUEDatasetSearch",
+    "url": "https://github.com/CLUEbenchmark/CLUEDatasetSearch",
+    "stars": 4305,
+    "created_at": "2020-02-21T16:01:31Z",
+    "description": "搜索所有中文NLP数据集，附常用英文NLP数据集"
+  },
+  {
+    "name": "ClashX-V2Ray-TopFreeProxy",
+    "url": "https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy",
+    "stars": 4292,
+    "created_at": "2022-07-18T10:34:45Z",
+    "description": "Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程]"
+  },
+  {
+    "name": "plugins-quickstart",
+    "url": "https://github.com/openai/plugins-quickstart",
+    "stars": 4239,
+    "created_at": "2023-04-06T13:43:37Z",
+    "description": "Get a ChatGPT plugin up and running in under 5 minutes!"
+  },
+  {
+    "name": "frida-dexdump",
+    "url": "https://github.com/hluwa/frida-dexdump",
+    "stars": 4228,
+    "created_at": "2020-01-07T12:36:10Z",
+    "description": "A frida tool to dump dex in memory to support security engineers analyzing malware."
+  },
+  {
+    "name": "maestro",
+    "url": "https://github.com/Doriandarko/maestro",
+    "stars": 4224,
+    "created_at": "2024-03-19T20:48:29Z",
+    "description": "A framework for Claude Opus to intelligently orchestrate subagents."
+  },
+  {
+    "name": "JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "stars": 4224,
+    "created_at": "2022-07-15T14:44:34Z",
+    "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS"
+  },
+  {
+    "name": "PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "stars": 4215,
+    "created_at": "2022-12-05T09:41:51Z",
+    "description": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more."
+  },
+  {
+    "name": "g1",
+    "url": "https://github.com/bklieger-groq/g1",
+    "stars": 4213,
+    "created_at": "2024-09-13T21:20:48Z",
+    "description": "g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains"
+  },
+  {
+    "name": "deit",
+    "url": "https://github.com/facebookresearch/deit",
+    "stars": 4195,
+    "created_at": "2020-12-23T17:44:43Z",
+    "description": "Official DeiT repository"
+  },
+  {
+    "name": "VisualGLM-6B",
+    "url": "https://github.com/THUDM/VisualGLM-6B",
+    "stars": 4154,
+    "created_at": "2023-04-23T09:36:56Z",
+    "description": "Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型"
+  },
+  {
+    "name": "grok",
+    "url": "https://github.com/openai/grok",
+    "stars": 4148,
+    "created_at": "2021-04-12T14:42:35Z",
+    "description": null
+  },
+  {
+    "name": "llama3-Chinese-chat",
+    "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+    "stars": 4145,
+    "created_at": "2024-04-18T17:54:10Z",
+    "description": "Llama3、Llama3.1 中文后训练版仓库 - 微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档。"
+  },
+  {
+    "name": "Baichuan2",
+    "url": "https://github.com/baichuan-inc/Baichuan2",
+    "stars": 4125,
+    "created_at": "2023-08-31T08:42:37Z",
+    "description": "A series of large language models developed by Baichuan Intelligent Technology"
+  },
+  {
+    "name": "build-nanogpt",
+    "url": "https://github.com/karpathy/build-nanogpt",
+    "stars": 4100,
+    "created_at": "2024-06-09T05:16:13Z",
+    "description": "Video+code lecture on building nanoGPT from scratch"
+  },
+  {
+    "name": "SxT-Python-SDK",
+    "url": "https://github.com/spaceandtimefdn/SxT-Python-SDK",
+    "stars": 4078,
+    "created_at": "2023-05-17T17:40:59Z",
+    "description": "Python based SDK for interacting with the Space and Time API. "
+  },
+  {
+    "name": "asitop",
+    "url": "https://github.com/tlkh/asitop",
+    "stars": 4046,
+    "created_at": "2021-10-27T15:50:16Z",
+    "description": "Perf monitoring CLI tool for Apple Silicon"
+  },
+  {
+    "name": "sd-forge-layerdiffuse",
+    "url": "https://github.com/lllyasviel/sd-forge-layerdiffuse",
+    "stars": 4044,
+    "created_at": "2024-03-01T06:41:32Z",
+    "description": "[WIP] Layer Diffusion for WebUI (via Forge)"
+  },
+  {
+    "name": "MODNet",
+    "url": "https://github.com/ZHKKKe/MODNet",
+    "stars": 4024,
+    "created_at": "2020-11-23T12:44:53Z",
+    "description": "A Trimap-Free Portrait Matting Solution in Real Time [AAAI 2022]"
+  },
+  {
+    "name": "douyin-downloader",
+    "url": "https://github.com/jiji262/douyin-downloader",
+    "stars": 4021,
+    "created_at": "2023-05-25T08:10:38Z",
+    "description": "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！"
+  },
+  {
+    "name": "TrollStore-IPAs",
+    "url": "https://github.com/swaggyP36000/TrollStore-IPAs",
+    "stars": 4012,
+    "created_at": "2022-11-10T00:24:33Z",
+    "description": "A collection of IPA files from many different sources, for TrollStore!"
+  },
+  {
+    "name": "agenda-tech-brasil",
+    "url": "https://github.com/agenda-tech-brasil/agenda-tech-brasil",
+    "stars": 4007,
+    "created_at": "2022-10-04T11:33:02Z",
+    "description": "Lista de eventos tech que acontecem no Brasil"
+  },
+  {
+    "name": "Awesome-LLM-Inference",
+    "url": "https://github.com/xlite-dev/Awesome-LLM-Inference",
+    "stars": 3998,
+    "created_at": "2023-08-27T02:32:15Z",
+    "description": "📚A curated list of Awesome LLM/VLM Inference Papers with codes: WINT8/4, FlashAttention, PagedAttention, MLA, Parallelism etc."
+  },
+  {
+    "name": "photo2cartoon",
+    "url": "https://github.com/minivision-ai/photo2cartoon",
+    "stars": 3995,
+    "created_at": "2020-04-17T08:24:26Z",
+    "description": "人像卡通化探索项目 (photo-to-cartoon translation project)"
+  },
+  {
+    "name": "White-box-Cartoonization",
+    "url": "https://github.com/SystemErrorWang/White-box-Cartoonization",
+    "stars": 3984,
+    "created_at": "2020-03-16T12:11:53Z",
+    "description": "Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”"
+  },
+  {
+    "name": "ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "stars": 3956,
+    "created_at": "2023-01-17T05:27:03Z",
+    "description": null
+  },
+  {
+    "name": "Paints-UNDO",
+    "url": "https://github.com/lllyasviel/Paints-UNDO",
+    "stars": 3882,
+    "created_at": "2024-07-07T18:41:03Z",
+    "description": "Understand Human Behavior to Align True Needs"
+  },
+  {
+    "name": "ml-mgie",
+    "url": "https://github.com/apple/ml-mgie",
+    "stars": 3877,
+    "created_at": "2023-12-15T23:04:40Z",
+    "description": null
+  },
+  {
+    "name": "stablediffusion-infinity",
+    "url": "https://github.com/lkwq007/stablediffusion-infinity",
+    "stars": 3875,
+    "created_at": "2022-09-02T05:07:50Z",
+    "description": "Outpainting with Stable Diffusion on an infinite canvas"
+  },
+  {
+    "name": "Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "stars": 3857,
+    "created_at": "2022-02-08T00:45:03Z",
+    "description": "一个攻防知识库。A knowledge base for red teaming and offensive security."
+  },
+  {
+    "name": "DeepSeek-VL",
+    "url": "https://github.com/deepseek-ai/DeepSeek-VL",
+    "stars": 3828,
+    "created_at": "2024-03-07T08:32:57Z",
+    "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding"
+  },
+  {
+    "name": "LightGlue",
+    "url": "https://github.com/cvg/LightGlue",
+    "stars": 3794,
+    "created_at": "2023-06-25T09:39:51Z",
+    "description": "LightGlue: Local Feature Matching at Light Speed (ICCV 2023)"
+  },
+  {
+    "name": "ChatGLM-Tuning",
+    "url": "https://github.com/mymusise/ChatGLM-Tuning",
+    "stars": 3768,
+    "created_at": "2023-03-16T15:31:15Z",
+    "description": "基于ChatGLM-6B + LoRA的Fintune方案"
+  },
+  {
+    "name": "Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "stars": 3765,
+    "created_at": "2021-07-28T11:32:06Z",
+    "description": "Unofficial implementation of Image Super-Resolution via Iterative Refinement by Pytorch"
+  },
+  {
+    "name": "stylegan2-pytorch",
+    "url": "https://github.com/lucidrains/stylegan2-pytorch",
+    "stars": 3759,
+    "created_at": "2020-01-09T18:23:31Z",
+    "description": "Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement"
+  },
+  {
+    "name": "audiblez",
+    "url": "https://github.com/santinic/audiblez",
+    "stars": 3693,
+    "created_at": "2025-01-14T14:36:20Z",
+    "description": "Generate audiobooks from e-books"
+  },
+  {
+    "name": "iptv",
+    "url": "https://github.com/vbskycn/iptv",
+    "stars": 3680,
+    "created_at": "2021-03-02T05:44:48Z",
+    "description": "iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）"
+  },
+  {
+    "name": "document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "stars": 3680,
+    "created_at": "2023-03-10T02:30:13Z",
+    "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)"
+  },
+  {
+    "name": "T2I-Adapter",
+    "url": "https://github.com/TencentARC/T2I-Adapter",
+    "stars": 3673,
+    "created_at": "2023-02-15T14:27:49Z",
+    "description": "T2I-Adapter"
+  },
+  {
+    "name": "Complete-Placement-Preparation",
+    "url": "https://github.com/anushka23g/Complete-Placement-Preparation",
+    "stars": 3671,
+    "created_at": "2020-12-25T09:58:19Z",
+    "description": "This repository consists of all the material required for cracking the coding rounds and technical interviews during placements."
+  },
+  {
+    "name": "KoboldAI-Client",
+    "url": "https://github.com/KoboldAI/KoboldAI-Client",
+    "stars": 3666,
+    "created_at": "2021-05-02T22:43:07Z",
+    "description": "For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp"
+  },
+  {
+    "name": "R1-V",
+    "url": "https://github.com/Deep-Agent/R1-V",
+    "stars": 3658,
+    "created_at": "2025-02-02T18:19:54Z",
+    "description": "Witness the aha moment of VLM with less than $3."
+  },
+  {
+    "name": "pypush",
+    "url": "https://github.com/JJTech0130/pypush",
+    "stars": 3632,
+    "created_at": "2023-04-05T23:52:24Z",
+    "description": "[being rewritten] Cross-platform iMessage POC"
+  },
+  {
+    "name": "SuperGluePretrainedNetwork",
+    "url": "https://github.com/magicleap/SuperGluePretrainedNetwork",
+    "stars": 3630,
+    "created_at": "2020-03-17T19:32:12Z",
+    "description": "SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)"
+  },
+  {
+    "name": "YAYI2",
+    "url": "https://github.com/wenge-research/YAYI2",
+    "stars": 3624,
+    "created_at": "2023-12-15T04:56:21Z",
+    "description": "YAYI 2 是中科闻歌研发的新一代开源大语言模型，采用了超过 2 万亿 Tokens 的高质量、多语言语料进行预训练。(Repo for YaYi 2 Chinese LLMs)"
+  },
+  {
+    "name": "glide-text2im",
+    "url": "https://github.com/openai/glide-text2im",
+    "stars": 3622,
+    "created_at": "2021-12-10T19:20:23Z",
+    "description": "GLIDE: a diffusion-based text-conditional image synthesis model"
+  },
+  {
+    "name": "ark-pixel-font",
+    "url": "https://github.com/TakWolf/ark-pixel-font",
+    "stars": 3615,
+    "created_at": "2021-05-11T18:12:13Z",
+    "description": "Open source Pan-CJK pixel font / 开源的泛中日韩像素字体"
+  },
+  {
+    "name": "gpt-code-ui",
+    "url": "https://github.com/ricklamers/gpt-code-ui",
+    "stars": 3588,
+    "created_at": "2023-05-10T18:46:08Z",
+    "description": "An open source implementation of OpenAI's ChatGPT Code interpreter"
+  },
+  {
+    "name": "RAFT",
+    "url": "https://github.com/princeton-vl/RAFT",
+    "stars": 3572,
+    "created_at": "2020-03-27T03:18:25Z",
+    "description": null
+  },
+  {
+    "name": "Surface-Defect-Detection",
+    "url": "https://github.com/Charmve/Surface-Defect-Detection",
+    "stars": 3566,
+    "created_at": "2020-09-27T07:47:25Z",
+    "description": "📈 目前最大的工业缺陷检测数据库及论文集 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.  "
+  },
+  {
+    "name": "ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "stars": 3564,
+    "created_at": "2023-03-21T23:40:31Z",
+    "description": null
+  },
+  {
+    "name": "researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "stars": 3558,
+    "created_at": "2023-02-01T05:46:57Z",
+    "description": "A LLM based research assistant that allows you to have a conversation with a research paper"
+  },
+  {
+    "name": "waka-readme-stats",
+    "url": "https://github.com/anmol098/waka-readme-stats",
+    "stars": 3555,
+    "created_at": "2020-07-19T14:29:40Z",
+    "description": "This GitHub action helps to add cool dev metrics to your github profile Readme"
+  },
+  {
+    "name": "ai-for-grant-writing",
+    "url": "https://github.com/eseckel/ai-for-grant-writing",
+    "stars": 3551,
+    "created_at": "2024-01-16T01:12:31Z",
+    "description": "A curated list of resources for using LLMs to develop more competitive grant applications."
+  },
+  {
+    "name": "light-show",
+    "url": "https://github.com/teslamotors/light-show",
+    "stars": 3538,
+    "created_at": "2021-12-16T17:31:30Z",
+    "description": "Tesla Light Show"
+  },
+  {
+    "name": "minegrub-theme",
+    "url": "https://github.com/Lxtharia/minegrub-theme",
+    "stars": 3538,
+    "created_at": "2022-12-02T18:57:52Z",
+    "description": "A Grub Theme in the style of Minecraft!"
+  },
+  {
+    "name": "watermark-removal",
+    "url": "https://github.com/zuruoke/watermark-removal",
+    "stars": 3528,
+    "created_at": "2021-11-04T07:27:37Z",
+    "description": "a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image "
+  },
+  {
+    "name": "chatgpt-clone",
+    "url": "https://github.com/xtekky/chatgpt-clone",
+    "stars": 3528,
+    "created_at": "2023-04-18T11:13:00Z",
+    "description": "ChatGPT interface with better UI "
+  },
+  {
+    "name": "instagraph",
+    "url": "https://github.com/yoheinakajima/instagraph",
+    "stars": 3523,
+    "created_at": "2023-09-12T21:25:09Z",
+    "description": "Converts text input or URL into knowledge graph and displays"
+  },
+  {
+    "name": "simpleaichat",
+    "url": "https://github.com/minimaxir/simpleaichat",
+    "stars": 3517,
+    "created_at": "2023-05-06T23:40:58Z",
+    "description": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity."
+  },
+  {
+    "name": "V2RayAggregator",
+    "url": "https://github.com/mahdibland/V2RayAggregator",
+    "stars": 3505,
+    "created_at": "2022-09-30T07:27:27Z",
+    "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed"
+  },
+  {
+    "name": "Xiaomi-cloud-tokens-extractor",
+    "url": "https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor",
+    "stars": 3494,
+    "created_at": "2020-10-22T14:08:08Z",
+    "description": "This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices."
+  },
+  {
+    "name": "min-dalle",
+    "url": "https://github.com/kuprel/min-dalle",
+    "stars": 3488,
+    "created_at": "2022-06-27T15:53:59Z",
+    "description": "min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch"
+  },
+  {
+    "name": "sd-webui-roop",
+    "url": "https://github.com/s0md3v/sd-webui-roop",
+    "stars": 3483,
+    "created_at": "2023-06-17T22:53:22Z",
+    "description": "roop extension for StableDiffusion web-ui"
+  },
+  {
+    "name": "OML-1.0-Fingerprinting",
+    "url": "https://github.com/sentient-agi/OML-1.0-Fingerprinting",
+    "stars": 3472,
+    "created_at": "2024-11-14T05:37:14Z",
+    "description": "OML 1.0 via Fingerprinting: Open, Monetizable, and Loyal AI"
+  },
+  {
+    "name": "minimind-v",
+    "url": "https://github.com/jingyaogong/minimind-v",
+    "stars": 3472,
+    "created_at": "2024-09-11T05:53:54Z",
+    "description": "🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!"
+  },
+  {
+    "name": "Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "stars": 3460,
+    "created_at": "2021-05-08T16:50:49Z",
+    "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script."
+  },
+  {
+    "name": "toolong",
+    "url": "https://github.com/Textualize/toolong",
+    "stars": 3445,
+    "created_at": "2024-01-07T17:22:40Z",
+    "description": "A terminal application to view, tail, merge, and search log files (plus JSONL)."
+  }
+]
